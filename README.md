@@ -25,6 +25,12 @@ Here are some ideas to get you started:
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amanpoddar375&theme=radical" />
 </p>
 
+## 📄 Most Language Used
+<p align="left">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpoddar375&layout=compact" />
+	
+</p>
+
 ## 💳 Github Profile Summary Card
 <p align="left">
   <img width = "100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanpoddar375&theme=radical"/>
