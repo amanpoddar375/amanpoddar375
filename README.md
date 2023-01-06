@@ -1,7 +1,7 @@
 ### Hi there 👋 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=amanpoddar375.visitor-badge)](https://github.com/amanpoddar375)
 
-📫 How to reach me: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanpoddar375/) [![Twitter](https://img.shields.io/twitter/follow/amanpoddar375?logo=Twitter&style=for-the-badge)](https://twitter.com/amanpoddar375/) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/whitehorse375/)
+📫 How to reach me: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanpoddar375/)
 
 
 <!--
